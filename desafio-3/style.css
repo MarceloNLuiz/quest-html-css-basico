@@ -1,0 +1,12 @@
+.paragrafo-normal {
+    background-color: #F5F5F5;
+    font-size: 1.5em;
+    padding: 20px;
+     }
+
+.paragrafo-destacado {
+    background-color: #F0CCE2;
+    font-size: 1.5em;
+    margin-top: 40px;
+    padding: 20px;
+    }
